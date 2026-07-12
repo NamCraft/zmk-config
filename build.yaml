@@ -19,17 +19,11 @@
 #
 ---
 include:
-  # Linke Hälfte ohne Zusatzmodule
-  - board: nice_nano_v2 
-    shield: Corne_L
-    artifact-name: Corne_left_minimal
-
-  # Rechte Hälfte ohne Zusatzmodule
   - board: nice_nano_v2
-    shield: Corne_R
-    artifact-name: Corne_right_minimal
-
-  # Reset-Datei
+    shield: corne_left
+  - board: nice_nano_v2
+    shield: corne_right
   - board: nice_nano_v2
     shield: settings_reset
+
 
