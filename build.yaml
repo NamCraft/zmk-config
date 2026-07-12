@@ -19,7 +19,8 @@
 #
 ---
 include:
-  - board: p3ga_pro_micro_nrf52840
+  - board: nice_nano_v2
     shield: corne_left
-  - board: p3ga_pro_micro_nrf52840
+  - board: nice_nano_v2
     shield: corne_right
+
