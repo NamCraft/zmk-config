@@ -19,8 +19,8 @@
 #
 ---
 include:
-  - board: nrf52840_dk
+  - board: waveshare_nrf52840_eval
     shield: corne_left
-  - board: nrf52840_dk
+  - board: waveshare_nrf52840_eval
     shield: corne_right
 
